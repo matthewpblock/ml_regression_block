@@ -1,0 +1,1 @@
+PROJECT_SUMMARY.md (with modeling details - see midterm PROJECT_SUMMARY_TEMPLATE.md for front matter and questions from REGRESSION_GUIDE.md)
