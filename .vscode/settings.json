@@ -1,6 +1,11 @@
 {
-  "jupyter.interactiveWindowKernelTimeout": 60,
-  "python.venvPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv",
   "python.defaultInterpreterPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv\\Scripts\\python.exe",
-  "jupyter.interpreterPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv\\Scripts\\python.exe"
+  "jupyter.kernels": [
+    {
+      "name": "ml_regression_block",
+      "path": "C:\\Users\\matth\\AppData\\Roaming\\jupyter\\kernels\\ml_regression_block\\kernel.json",
+      "displayName": "Python (ml_regression_block)"
+    }
+  ],
+  "jupyter.jupyterServerType": "local"
 }
