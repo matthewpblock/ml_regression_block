@@ -1,0 +1,6 @@
+{
+  "jupyter.interactiveWindowKernelTimeout": 60,
+  "python.venvPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv",
+  "python.defaultInterpreterPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv\\Scripts\\python.exe",
+  "jupyter.interpreterPath": "c:\\Projects\\MS_Data_Analytics\\Applied-Machine-Learning\\ml_regression_block\\.venv\\Scripts\\python.exe"
+}
