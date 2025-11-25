@@ -23,7 +23,7 @@ This project performs a regression analysis on a medical insurance dataset with 
  
 - `regression_block.ipynb`: The main [Jupyter Notebook](https://github.com/matthewpblock/ml_regression_block/blob/main/regression_block.ipynb) containing all data preprocessing, analysis, model training, and evaluation.
 - `peer_review.md`: Contains the [peer review](https://github.com/matthewpblock/ml_regression_block/blob/main/peer_review.md) feedback and analysis for this project.
-- `data/`: Directory for storing the dataset(s). *(Please create this folder if it doesn't exist)*
+- `data/`: Directory for storing the dataset(s). 
 - `requirements.txt`: A list of all Python dependencies required to run the project.
  
 ---
