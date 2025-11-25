@@ -2,6 +2,7 @@
     "recommendations": [
         "google.geminicodeassist",
         "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python",
+        "google.colab"
     ]
 }
